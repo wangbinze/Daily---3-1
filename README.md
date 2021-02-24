@@ -9,4 +9,6 @@
 
 
 ###	day 1
-	[JavaScript包含哪几个部分？并各自是做什么的？](https://github.com/wangbinze/Daily-2-Question/issues/1)
+- [Question1、JavaScript包含哪几个部分？并各自是做什么的？](https://github.com/wangbinze/Daily-2-Question/issues/1)
+
+- [Question2、前端性能优化有哪些？](https://github.com/wangbinze/Daily-2-Question/issues/2)
