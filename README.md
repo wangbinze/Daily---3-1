@@ -27,7 +27,7 @@
 ### day 2
 - ❤️[JavaScript-Question003、<Script>元素有哪些属性？按照可能会使用的重要性进行排序](https://github.com/wangbinze/Daily---3and1/issues/3)
 - ❤️[HTML-Question004、HTML是什么？](https://github.com/wangbinze/Daily---3and1/issues/4)
-- ❤️❤️[Question005、CSS,sass,less,stylus](https://github.com/wangbinze/Daily---3and1/issues/5)
+- ❤️❤️[CSS-Question005、CSS,sass,less,stylus](https://github.com/wangbinze/Daily---3and1/issues/5)
 
 
 ----------
