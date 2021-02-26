@@ -31,6 +31,8 @@
 - ❤️❤️❤️[Question006-JavaScript、ES5和ES6中声明变量的方式和区别？](https://github.com/wangbinze/Daily---3and1/issues/6)
 - ❤️❤️❤️[Question007-JavaScript、JS中有哪些数据类型？分别说明，并且如何判断？](https://github.com/wangbinze/Daily---3and1/issues/7)
 
+### day 3
+- ❤️❤️❤️[Question008-JavaScript、JS中常用的操作符有哪些？](https://github.com/wangbinze/Daily---3and1/issues/8)
 ----------
 
 # 知识点分类版
