@@ -41,6 +41,8 @@
 - ❤️[Question003-JavaScript、<Script>元素有哪些属性？按照可能会使用的重要性进行排序](https://github.com/wangbinze/Daily---3and1/issues/3)
 - ❤️❤️❤️[Question006-JavaScript、ES5和ES6中声明变量的方式和区别？](https://github.com/wangbinze/Daily---3and1/issues/6)
 - ❤️❤️❤️[Question007-JavaScript、JS中有哪些数据类型？分别说明，并且如何判断？](https://github.com/wangbinze/Daily---3and1/issues/7)
+- ❤️❤️❤️[Question008-JavaScript、JS中常用的操作符有哪些？](https://github.com/wangbinze/Daily---3and1/issues/8)
+
 ###  React
 
 ###  Vue
