@@ -4,7 +4,7 @@
 
 说的每天，其实也不一定每天都会更新，但希望是每天都会更新。
 
-各一道HTML，CSS,JavaScript，还有一道关于计算机的知识或者其他的一些软技能。
+根据情况会出现不同类型的，包含js，html 和 css，或者一道关于计算机的知识或者其他的一些软技能。
 
 部分来自于他人博客和文章，均会在题目中标明出处。
 
@@ -33,6 +33,13 @@
 
 ### day 3
 - ❤️❤️❤️[Question008-JavaScript、JS中常用的操作符有哪些？](https://github.com/wangbinze/Daily---3and1/issues/8)
+- ❤️❤️❤️[Question009 -JavaScript、JS中常用的语句有哪些？](https://github.com/wangbinze/Daily---3and1/issues/9)
+- ❤️❤️[Question010 -JavaScript、JS中原始值和引用值](https://github.com/wangbinze/Daily---3and1/issues/10)
+
+### day 4
+- ❤️❤️❤️[Question011 -JavaScript、JS中执行上下文与作用域](https://github.com/wangbinze/Daily---3and1/issues/11)
+- ❤️❤️[Question012 -JavaScript、谈谈JS中的垃圾回收有哪几种？](https://github.com/wangbinze/Daily---3and1/issues/12)
+
 ----------
 
 # 知识点分类版
@@ -42,6 +49,10 @@
 - ❤️❤️❤️[Question006-JavaScript、ES5和ES6中声明变量的方式和区别？](https://github.com/wangbinze/Daily---3and1/issues/6)
 - ❤️❤️❤️[Question007-JavaScript、JS中有哪些数据类型？分别说明，并且如何判断？](https://github.com/wangbinze/Daily---3and1/issues/7)
 - ❤️❤️❤️[Question008-JavaScript、JS中常用的操作符有哪些？](https://github.com/wangbinze/Daily---3and1/issues/8)
+- ❤️❤️❤️[Question009 -JavaScript、JS中常用的语句有哪些？](https://github.com/wangbinze/Daily---3and1/issues/9)
+- ❤️❤️[Question010 -JavaScript、JS中原始值和引用值](https://github.com/wangbinze/Daily---3and1/issues/10)
+- ❤️❤️❤️[Question011 -JavaScript、JS中执行上下文与作用域](https://github.com/wangbinze/Daily---3and1/issues/11)
+- ❤️❤️[Question012 -JavaScript、谈谈JS中的垃圾回收有哪几种？](https://github.com/wangbinze/Daily---3and1/issues/12)
 
 ###  React
 
