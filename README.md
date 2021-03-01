@@ -39,6 +39,9 @@
 ### day 4
 - ❤️❤️❤️[Question011 -JavaScript、JS中执行上下文与作用域](https://github.com/wangbinze/Daily---3and1/issues/11)
 - ❤️❤️[Question012 -JavaScript、谈谈JS中的垃圾回收有哪几种？](https://github.com/wangbinze/Daily---3and1/issues/12)
+- ❤️❤️❤️[Question013 -Vue、谈谈Vue的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/13)
+- ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
+- ❤️❤️[Question015 -谈谈React和Vue的相同之处和区别及使用场景？](https://github.com/wangbinze/Daily---3and1/issues/15)
 
 ----------
 
@@ -55,14 +58,19 @@
 - ❤️❤️[Question012 -JavaScript、谈谈JS中的垃圾回收有哪几种？](https://github.com/wangbinze/Daily---3and1/issues/12)
 
 ###  React
-
+- ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
+- 
 ###  Vue
+- ❤️❤️❤️[Question013 -Vue、谈谈Vue的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/13)
 
 ###  CSS
 - ❤️❤️[Question005-CSS、css,sass,less,stylus](https://github.com/wangbinze/Daily---3and1/issues/5)
+- 
 ###  HTML
 - ❤️[Question004-HTML、HTML是什么？](https://github.com/wangbinze/Daily---3and1/issues/4)
+- 
 ###  大杂烩
 - ❤️❤️❤️[Question2、前端性能优化有哪些？](https://github.com/wangbinze/Daily---3and1/issues/2)
+- ❤️❤️[Question015 -谈谈React和Vue的相同之处和区别及使用场景？](https://github.com/wangbinze/Daily---3and1/issues/15)
 
 ###  其余知识点或者心得什么的
