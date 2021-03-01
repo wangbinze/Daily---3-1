@@ -42,6 +42,10 @@
 - ❤️❤️❤️[Question013 -Vue、谈谈Vue的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/13)
 - ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
 - ❤️❤️[Question015 -谈谈React和Vue的相同之处和区别及使用场景？](https://github.com/wangbinze/Daily---3and1/issues/15)
+- ❤️❤️❤️[Question016 -Vue、说说MVVM模式？](https://github.com/wangbinze/Daily---3and1/issues/16)
+- ❤️❤️❤️[Question017 -Vue、v-if 和 v-show 的区别？](https://github.com/wangbinze/Daily---3and1/issues/17)
+- ❤️❤️❤️[Question018 -Vue、Vue的双向数据绑定原理是什么？](https://github.com/wangbinze/Daily---3and1/issues/18)
+
 
 ----------
 
@@ -62,6 +66,9 @@
 - 
 ###  Vue
 - ❤️❤️❤️[Question013 -Vue、谈谈Vue的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/13)
+- ❤️❤️❤️[Question016 -Vue、说说MVVM模式？](https://github.com/wangbinze/Daily---3and1/issues/16)
+- ❤️❤️❤️[Question017 -Vue、v-if 和 v-show 的区别？](https://github.com/wangbinze/Daily---3and1/issues/17)
+- ❤️❤️❤️[Question018 -Vue、Vue的双向数据绑定原理是什么？](https://github.com/wangbinze/Daily---3and1/issues/18)
 
 ###  CSS
 - ❤️❤️[Question005-CSS、css,sass,less,stylus](https://github.com/wangbinze/Daily---3and1/issues/5)
@@ -72,5 +79,6 @@
 ###  大杂烩
 - ❤️❤️❤️[Question2、前端性能优化有哪些？](https://github.com/wangbinze/Daily---3and1/issues/2)
 - ❤️❤️[Question015 -谈谈React和Vue的相同之处和区别及使用场景？](https://github.com/wangbinze/Daily---3and1/issues/15)
+- ❤️❤️❤️[Question016 -使用Vue，那说说MVVM模式？](https://github.com/wangbinze/Daily---3and1/issues/16)
 
 ###  其余知识点或者心得什么的
