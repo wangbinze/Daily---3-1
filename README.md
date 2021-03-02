@@ -11,6 +11,7 @@
 此为面试题，同时也是一个知识点总结和复习。
 
 提醒自己，时刻保持学习，提高技术水平。
+周末学习一篇好的前端开发文章并复习本周学习的知识点和面试题。
 
 以下排序分为两个版本：
 · 时间版：按照时间，同时大部分也是按照知识点先后循序排序
@@ -46,7 +47,8 @@
 - ❤️❤️❤️[Question017 -Vue、v-if 和 v-show 的区别？](https://github.com/wangbinze/Daily---3and1/issues/17)
 - ❤️❤️❤️[Question018 -Vue、Vue的双向数据绑定原理是什么？](https://github.com/wangbinze/Daily---3and1/issues/18)
 
-
+### day5
+- ❤️❤️[Question019 -JavaScript、JS中的基本引用类型有哪些，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/19)
 ----------
 
 # 知识点分类版
@@ -60,6 +62,7 @@
 - ❤️❤️[Question010 -JavaScript、JS中原始值和引用值](https://github.com/wangbinze/Daily---3and1/issues/10)
 - ❤️❤️❤️[Question011 -JavaScript、JS中执行上下文与作用域](https://github.com/wangbinze/Daily---3and1/issues/11)
 - ❤️❤️[Question012 -JavaScript、谈谈JS中的垃圾回收有哪几种？](https://github.com/wangbinze/Daily---3and1/issues/12)
+- ❤️❤️[Question019 -JavaScript、JS中的基本引用类型有哪些，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/19)
 
 ###  React
 - ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
