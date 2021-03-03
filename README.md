@@ -49,6 +49,9 @@
 
 ### day5
 - ❤️❤️[Question019 -JavaScript、JS中的基本引用类型有哪些，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/19)
+
+### day6
+- ❤️❤️❤️[Question020 -JavaScript、JS中的集合引用类型有哪些，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/20)
 ----------
 
 # 知识点分类版
@@ -63,7 +66,7 @@
 - ❤️❤️❤️[Question011 -JavaScript、JS中执行上下文与作用域](https://github.com/wangbinze/Daily---3and1/issues/11)
 - ❤️❤️[Question012 -JavaScript、谈谈JS中的垃圾回收有哪几种？](https://github.com/wangbinze/Daily---3and1/issues/12)
 - ❤️❤️[Question019 -JavaScript、JS中的基本引用类型有哪些，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/19)
-
+- ❤️❤️❤️[Question020 -JavaScript、JS中的集合引用类型有哪些，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/20)
 ###  React
 - ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
 - 
