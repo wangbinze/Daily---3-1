@@ -59,7 +59,7 @@
 
 # 知识点分类版
 ###  JavaScript
-- ❤️❤️[Question001-JavaScript、JavaScript包含哪几个部分？并各自是做什么的？](https://github.com/wangbinze/Daily---3and1issues/1)
+- ❤️❤️[Question001-JavaScript、JavaScript包含哪几个部分？并各自是做什么的？](https://github.com/wangbinze/Daily---3and1/issues/1)
 - ❤️[Question003-JavaScript、<Script>元素有哪些属性？按照可能会使用的重要性进行排序](https://github.com/wangbinze/Daily---3and1/issues/3)
 - ❤️❤️❤️[Question006-JavaScript、ES5和ES6中声明变量的方式和区别？](https://github.com/wangbinze/Daily---3and1/issues/6)
 - ❤️❤️❤️[Question007-JavaScript、JS中有哪些数据类型？分别说明，并且如何判断？](https://github.com/wangbinze/Daily---3and1/issues/7)
