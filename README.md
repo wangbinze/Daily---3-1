@@ -95,8 +95,7 @@
 - ❤️[Question004-HTML、HTML是什么？](https://github.com/wangbinze/Daily---3and1/issues/4)
 - 
 ###  大杂烩
-- ❤️❤️❤️[Question2、前端性能优化有哪些？](https://github.com/wangbinze/Daily---3and1/issues/2)
+- ❤️❤️❤️[Question002、前端性能优化有哪些？](https://github.com/wangbinze/Daily---3and1/issues/2)
 - ❤️❤️[Question015 -谈谈React和Vue的相同之处和区别及使用场景？](https://github.com/wangbinze/Daily---3and1/issues/15)
-- ❤️❤️❤️[Question016 -使用Vue，那说说MVVM模式？](https://github.com/wangbinze/Daily---3and1/issues/16)
 
 ###  其余知识点或者心得什么的
