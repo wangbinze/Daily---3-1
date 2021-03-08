@@ -55,6 +55,11 @@
 
 ### day7
 - ❤️❤️❤️[Question021 -JavaScript、客户端存储的几种方式，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/21)
+
+### day8
+- ❤️❤️❤️[Question022 -JavaScript、为什么要用 setTimeout 模拟 setInterval ？](https://github.com/wangbinze/Daily---3and1/issues/22)
+- ❤️❤️[Question023 -JavaScript、js中的迭代器和生成器](https://github.com/wangbinze/Daily---3and1/issues/23)
+
 ----------
 
 # 知识点分类版
@@ -71,6 +76,9 @@
 - ❤️❤️[Question019 -JavaScript、JS中的基本引用类型有哪些，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/19)
 - ❤️❤️❤️[Question020 -JavaScript、JS中的集合引用类型有哪些，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/20)
 - ❤️❤️❤️[Question021 -JavaScript、客户端存储的几种方式，分别介绍一下](https://github.com/wangbinze/Daily---3and1/issues/21)
+- ❤️❤️❤️[Question022 -JavaScript、为什么要用 setTimeout 模拟 setInterval ？](https://github.com/wangbinze/Daily---3and1/issues/22)
+- ❤️❤️[Question023 -JavaScript、js中的迭代器和生成器](https://github.com/wangbinze/Daily---3and1/issues/23)
+
 ###  React
 - ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
 - 
