@@ -61,6 +61,10 @@
 - ❤️❤️[Question023 -JavaScript、js中的迭代器和生成器](https://github.com/wangbinze/Daily---3and1/issues/23)
 - ❤️❤️❤️[Question024 -JavaScript、谈谈对js中对象的理解，从属性角度出发](https://github.com/wangbinze/Daily---3and1/issues/24)
 
+### day9
+- ❤️❤️❤️[Question025 -JavaScript、合并对象有哪些方法？介绍一下深拷贝和浅拷贝](https://github.com/wangbinze/Daily---3and1/issues/25)
+- ❤️❤️❤️[Question026 -JavaScript、说说对象结构](https://github.com/wangbinze/Daily---3and1/issues/26)
+
 ----------
 
 # 知识点分类版
@@ -80,6 +84,9 @@
 - ❤️❤️❤️[Question022 -JavaScript、为什么要用 setTimeout 模拟 setInterval ？](https://github.com/wangbinze/Daily---3and1/issues/22)
 - ❤️❤️[Question023 -JavaScript、js中的迭代器和生成器](https://github.com/wangbinze/Daily---3and1/issues/23)
 - ❤️❤️❤️[Question024 -JavaScript、谈谈对js中对象的理解，从属性角度出发](https://github.com/wangbinze/Daily---3and1/issues/24)
+- ❤️❤️❤️[Question025 -JavaScript、合并对象有哪些方法？介绍一下深拷贝和浅拷贝](https://github.com/wangbinze/Daily---3and1/issues/25)
+- ❤️❤️❤️[Question026 -JavaScript、说说对象结构](https://github.com/wangbinze/Daily---3and1/issues/26)
+
 
 ###  React
 - ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
