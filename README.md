@@ -65,6 +65,8 @@
 - ❤️❤️❤️[Question025 -JavaScript、合并对象有哪些方法？介绍一下深拷贝和浅拷贝](https://github.com/wangbinze/Daily---3and1/issues/25)
 - ❤️❤️❤️[Question026 -JavaScript、说说对象解构](https://github.com/wangbinze/Daily---3and1/issues/26)
 
+### day10
+- ❤️❤️❤️[Question027 -JavaScript、说说图片懒加载及其底层的实现原理](https://github.com/wangbinze/Daily---3and1/issues/27)
 ----------
 
 # 知识点分类版
@@ -86,7 +88,7 @@
 - ❤️❤️❤️[Question024 -JavaScript、谈谈对js中对象的理解，从属性角度出发](https://github.com/wangbinze/Daily---3and1/issues/24)
 - ❤️❤️❤️[Question025 -JavaScript、合并对象有哪些方法？介绍一下深拷贝和浅拷贝](https://github.com/wangbinze/Daily---3and1/issues/25)
 - ❤️❤️❤️[Question026 -JavaScript、说说对象解构](https://github.com/wangbinze/Daily---3and1/issues/26)
-
+- ❤️❤️❤️[Question027 -JavaScript、说说图片懒加载及其底层的实现原理](https://github.com/wangbinze/Daily---3and1/issues/27)
 
 ###  React
 - ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
