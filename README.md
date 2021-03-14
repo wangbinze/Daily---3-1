@@ -71,6 +71,9 @@
 ### day11
 - ❤️❤️❤️[Question028 -JavaScript、创建对象的几种方式](https://github.com/wangbinze/Daily---3and1/issues/28)
 
+### day12
+- ❤️❤️❤️[Question029 -CSS、Flexbox布局中不为认知的细节](https://github.com/wangbinze/Daily---3and1/issues/29)
+- ❤️❤️❤️[Question030 -JavaScript、关于继承的相关问题](https://github.com/wangbinze/Daily---3and1/issues/30)
 ----------
 
 # 知识点分类版
@@ -94,6 +97,7 @@
 - ❤️❤️❤️[Question026 -JavaScript、说说对象解构](https://github.com/wangbinze/Daily---3and1/issues/26)
 - ❤️❤️❤️[Question027 -JavaScript、说说图片懒加载及其底层的实现原理](https://github.com/wangbinze/Daily---3and1/issues/27)
 - ❤️❤️❤️[Question028 -JavaScript、创建对象的几种方式](https://github.com/wangbinze/Daily---3and1/issues/28)
+- ❤️❤️❤️[Question030 -JavaScript、关于继承的相关问题](https://github.com/wangbinze/Daily---3and1/issues/30)
 ###  React
 - ❤️❤️❤️[Question014 -React、谈谈React组件的生命周期？](https://github.com/wangbinze/Daily---3and1/issues/14)
 - 
@@ -105,7 +109,7 @@
 
 ###  CSS
 - ❤️❤️[Question005-CSS、css,sass,less,stylus](https://github.com/wangbinze/Daily---3and1/issues/5)
-
+- ❤️❤️❤️[Question029 -CSS、Flexbox布局中不为认知的细节](https://github.com/wangbinze/Daily---3and1/issues/29)
 ###  HTML
 - ❤️[Question004-HTML、HTML是什么？](https://github.com/wangbinze/Daily---3and1/issues/4)
 - 
